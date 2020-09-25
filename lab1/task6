@@ -1,3 +1,5 @@
 #!/bin/bash
-awk '$2 == "INFO"{print $0}'>info.log /var/log/anaconda/syslog
-
+WARNING="\(WW\)"
+INFO="\(II\)"
+grep -Esh $WARNING /var/log/anaconda/X.log | sed -E "s/$WARNING/Warning: /" > full.log
+grep  -Esh $INFO /var/log/anaconda/X.log | sed -E "s/$INFO/Information: /" >> full.log

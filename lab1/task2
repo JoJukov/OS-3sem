@@ -1,6 +1,5 @@
 #!/bin/bash
 read tmp
-answ=""
 while [[ "$tmp" != "q" ]]
 do
 answ="$tmp $answ"
