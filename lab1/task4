@@ -1,0 +1,11 @@
+#!/bin/bash
+pwd=$PWD
+home=$HOME
+if [[ $home == ${pwd:0:${#home}} ]]
+then echo $home
+exit 0
+else echo "Error"
+exit 1
+fi
+
+

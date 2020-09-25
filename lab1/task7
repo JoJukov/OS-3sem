@@ -1,0 +1,5 @@
+#!/bin/bash
+grep -Eoshra '([[:alnum:]]|[\-\_\.])+@([[:alnum:]])+\.([[:alnum:]]|[\.])+' /etc>emails.lst
+
+
+
