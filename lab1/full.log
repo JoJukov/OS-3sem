@@ -1,11 +1,9 @@
 [    53.328] Warning:  Failed to open protocol names file /usr/lib64/xorg/protocol.txt
-	Warning:  warning, (EE) error, (NI) not implemented, (??) unknown.
 [    54.415] Warning:  Falling back to old probe method for modesetting
 [    54.415] Warning:  Falling back to old probe method for fbdev
 [    54.478] Warning:  vmware(0): Failed to initialize Gallium3D Xa. No render acceleration available.
 [    54.478] Warning:  vmware(0): Skipped initialization of direct rendering due to lack of render acceleration.
 [    54.478] Warning:  vmware(0): Disabling Xv because no adaptors could be initialized.
-	(++) from command line, (!!) notice, Information:  informational,
 [    53.341] Information:  The server relies on udev to provide the list of input devices.
 [    53.341] Information:  Loader magic: 0x5617ea10e020
 [    53.341] Information:  Module ABI versions:

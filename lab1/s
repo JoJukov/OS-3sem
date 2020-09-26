@@ -1,0 +1,3 @@
+#!/bin/bash
+sed -n 's/] (WW)/] warning' /var/log/anaconda/X.log > full.log
+

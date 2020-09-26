@@ -1,5 +1,5 @@
 #!/bin/bash
 WARNING="\(WW\)"
 INFO="\(II\)"
-grep -Esh $WARNING /var/log/anaconda/X.log | sed -E "s/$WARNING/Warning: /" > full.log
-grep  -Esh $INFO /var/log/anaconda/X.log | sed -E "s/$INFO/Information: /" >> full.log
+grep -Esh "] $WARNING" /var/log/anaconda/X.log | sed -E "s/$WARNING/Warning: /" > full.log
+grep  -Esh "] $INFO"  /var/log/anaconda/X.log | sed -E "s/$INFO/Information: /" >> full.log
