@@ -1,0 +1,15 @@
+#!/bin/bash
+ps -A OT o pid,ppid > tmp
+while read line
+do
+tmp_pid=$(echo $line | awk '{print $1}')
+tmp_ppid=$(echo $line | awk '{print $2}')
+if [[ $$ != $tmp_pid && $$ != $tmp_ppid ]]; then
+answer="$tmp_pid"
+fi
+done < tmp
+echo "$answer"
+rm tmp
+
+
+
