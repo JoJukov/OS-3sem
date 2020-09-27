@@ -1,0 +1,2 @@
+#!/bin/bash
+ps -Ao "%p %a" | grep -E "/sbin/" | grep -Eo "[0-9]+" > answer2.log
