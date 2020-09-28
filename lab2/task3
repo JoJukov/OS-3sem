@@ -1,14 +1,15 @@
 #!/bin/bash
-ps -A OT o pid,ppid > tmp
+ps -A OT o pid,ppid,start_time > tmp
 while read line
 do
 	tmp_pid=$(echo $line | awk '{print $1}')
 	tmp_ppid=$(echo $line | awk '{print $2}')
 	if [[ $$ != $tmp_pid && $$ != $tmp_ppid ]]; then
 		answer="$tmp_pid"
+		start=$(echo $line | awk '{print $3}')
 	fi
 done < tmp
-echo "$answer"
+echo "$answer : $start"
 rm tmp
 
 
