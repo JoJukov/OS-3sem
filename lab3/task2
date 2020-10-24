@@ -1,0 +1,13 @@
+#!/bin/bash
+{
+	{
+	sleep 5s
+	./task1
+	} &
+
+	(tail -f -n0 ~/report) | while true;
+		do
+			read LINE
+			echo "$LINE"
+		done
+} &
