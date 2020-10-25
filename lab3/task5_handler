@@ -11,10 +11,12 @@ do
 	case $operation in
 		"*")
 			let answer=$answer*$LINE
+			echo $answer
 			continue
 			;;
 		"+")
 			let answer=$answer+$LINE
+			echo $answer
 			continue
 			;;
 	esac

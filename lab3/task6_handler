@@ -22,17 +22,18 @@ do
 	case $operation in
 		"+")
 			let answer=$answer+2
-			echo $answer
 			;;
 		"*")
 			let answer=$answer*2
-			echo $answer
 			;;
 
 		"sigterm")
 			echo "process has been stopped"
 			exit
 			;;
+		*)
+			;;
 	esac
+	echo $answer
 	sleep 1
 done
