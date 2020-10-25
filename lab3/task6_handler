@@ -1,0 +1,38 @@
+#!/bin/bash
+echo $$ > task6.pid
+operation=""
+answer=1
+u1()
+{
+	operation="+"
+}
+u2()
+{
+	operation="*"
+}
+t()
+{
+	operation="sigterm"
+}
+trap 'u1' USR1
+trap 'u2' USR2
+trap 't' SIGTERM
+while true
+do
+	case $operation in
+		"+")
+			let answer=$answer+2
+			echo $answer
+			;;
+		"*")
+			let answer=$answer*2
+			echo $answer
+			;;
+
+		"sigterm")
+			echo "process has been stopped"
+			exit
+			;;
+	esac
+	sleep 1
+done
