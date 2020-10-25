@@ -2,5 +2,4 @@
 killall crond 2>/dev/null
 day=$(date '+%u')
 echo "*/5 * * * $day /bin/sh /home/user/lab3/task1" | crontab
-killall crond 2>/dev/null
 crond &

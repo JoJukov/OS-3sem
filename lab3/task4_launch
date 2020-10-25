@@ -1,0 +1,8 @@
+#!/bin/bash
+./task4_script.sh &
+pid1=$!
+./task4_script.sh &
+./task4_script.sh &
+pid3=$!
+
+echo "$pid1 $pid3"

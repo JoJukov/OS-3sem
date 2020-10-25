@@ -1,0 +1,43 @@
+#!/bin/bash
+operation="+"
+answer=1
+x='^[0-9]+$'
+(tail -f pipe) |
+while true;
+do
+	read LINE;
+	if [[ $LINE =~ $x ]]
+	then
+	case $operation in
+		"*")
+			let answer=$answer*$LINE
+			continue
+			;;
+		"+")
+			let answer=$answer+$LINE
+			continue
+			;;
+	esac
+	fi
+	case "$LINE" in
+		"*")
+			operation="*"
+			;;
+		"+")
+			operation="+"
+			;;
+		"QUIT")
+			echo "Stopped: answer is $answer"
+			kill $(cat task5.pid)
+			killall tail
+			exit
+			;;
+		*)
+			echo "Wrong input"
+			kill $(cat task5.pid)
+			killall tail
+			exit
+			;;
+
+	esac
+done
