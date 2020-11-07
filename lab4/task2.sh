@@ -61,6 +61,9 @@ do
 					rm "$file_reference"
 				fi
 			fi
+				grep -Ev  "$file_reference$" $dir_log > .task2_tmp.log
+				cat .task2_tmp.log > $dir_log
+				rm .task2_tmp.log
 			;;
 		*)
 			continue
