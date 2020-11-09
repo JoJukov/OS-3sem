@@ -2,16 +2,16 @@
 
 if [[ ! -e "$PWD/.number_tmp.log" ]]
 then
-	echo 0 > "$PWD/.number_tmp.log"
+	echo 1 > "$PWD/.number_tmp.log"
 fi
 
-#a)
 if [[ $# -ne 1 ]]
 then
 	echo "Wrong number of input arguments (requires 1)"
 	exit
 fi
 
+#a)
 if [[ ! -f $1 ]]
 then
 	echo "$1: That file doesn't exist"

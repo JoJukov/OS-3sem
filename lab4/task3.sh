@@ -17,8 +17,7 @@ fi
 
 if [[ ! -e "$home_path/backup-report" ]]
 then
-	echo "Backup-report doesn't exist"
-	exit
+	touch "$home_path/backup-report"
 fi
 
 if [[ "$time_difference" -ge 7 ]] || [[ "$backup_prev" == "" ]]

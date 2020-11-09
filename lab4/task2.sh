@@ -21,9 +21,15 @@ then
 	exit
 fi
 
+if [[ $(grep -E "$1 " $dir_log) == "" ]]
+then
+	echo "$1 not in .trash.log file"
+	exit
+fi
+
 if [[ $(grep -E "/$1 " $dir_log) == "" ]]
 then
-	echo "Incorrect name of input parameter or file $1 doesn't exist"
+	echo "Type only name of file, not full path"
 	exit
 fi
 
