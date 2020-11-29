@@ -4,8 +4,8 @@ swaptotal=$(cat /proc/meminfo | grep -E "SwapTotal" | grep -Eo "[0-9]+")
 pagesize=$(echo "$(getconf PAGESIZE)/1024" | bc)
 memfree=$(cat /proc/meminfo | grep -E "MemFree" | grep -Eo "[0-9]+")
 swapfree=$(cat /proc/meminfo | grep -E "SwapFree" | grep -Eo "[0-9]+")
-echo "MemTotal: ${memtotal} Kb" > config.log
-echo "SwapTotal: ${swaptotal} Kb" >> config.log
-echo "PageSize: ${pagesize} Kb" >> config.log
-echo "MemFree: ${memfree} Kb" >> config.log
-echo "SwapFree: ${swapfree} Kb" >> config.log
+echo "MemTotal: ${memtotal} Kb" > config_features.log
+echo "SwapTotal: ${swaptotal} Kb" >> config_features.log
+echo "PageSize: ${pagesize} Kb" >> config_features.log
+echo "MemFree: ${memfree} Kb" >> config_features.log
+echo "SwapFree: ${swapfree} Kb" >> config_features.log
