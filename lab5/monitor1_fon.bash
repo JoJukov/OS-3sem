@@ -17,6 +17,6 @@ do
 		echo "$(top -b -n 1 | head -n 12 | tail -n 5)" >> config.log
 		echo >> config.log
 	else
-		exit
+		killall mem_together.bash 2>/dev/null
 	fi
 done

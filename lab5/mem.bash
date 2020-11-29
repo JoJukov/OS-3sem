@@ -1,6 +1,5 @@
 #!/bin/bash
 >report.log
-./monitor1_fon.bash &
 declare -a arr
 iter=0
 for ((;;))
