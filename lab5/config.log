@@ -1,590 +1,920 @@
-___Info in Sun Nov 29 22:33:14 MSK 2020
+___Info in Thu Dec  3 00:39:33 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1603.5 free,    155.7 used,     67.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1552.6 avail Mem 
+MiB Mem :   1827.1 total,   1634.1 free,    125.9 used,     67.0 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1588.7 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  263012  43532   2864 R  54.5   2.3   0:02.11 mem.bash
+   3877 root      20   0  240440  20912   2956 R  99.9   1.1   0:01.21 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  283604  64124   2864 R  99.9   3.4   0:03.17 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  258788  39392   2956 R  99.9   2.1   0:02.41 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:17 MSK 2020
+___Info in Thu Dec  3 00:39:35 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1555.8 free,    197.5 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1511.5 avail Mem 
+MiB Mem :   1827.1 total,   1602.0 free,    157.9 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1556.9 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  307100  87620   2864 R  94.1   4.7   0:04.37 mem.bash
+   3877 root      20   0  277004  57608   2956 R  99.9   3.1   0:03.63 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  325844 106364   2864 R  94.4   5.7   0:05.33 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  291260  71864   2956 R  99.9   3.8   0:04.59 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:19 MSK 2020
+___Info in Thu Dec  3 00:39:37 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1514.0 free,    239.2 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1470.4 avail Mem 
+MiB Mem :   1827.1 total,   1569.3 free,    190.6 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1524.3 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  349472 129860   2864 R  99.9   6.9   0:06.53 mem.bash
+   3877 root      20   0  310532  91136   2956 R  99.9   4.9   0:05.82 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  367688 148076   2864 R  99.9   7.9   0:07.45 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  323864 104336   2956 R  94.1   5.6   0:06.72 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:21 MSK 2020
+___Info in Thu Dec  3 00:39:39 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1473.6 free,    279.7 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1430.2 avail Mem 
+MiB Mem :   1827.1 total,   1538.3 free,    221.5 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1493.1 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  391052 171572   2864 R  99.9   9.2   0:08.64 mem.bash
+   3877 root      20   0  341816 122288   2956 R  99.9   6.5   0:07.91 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  408872 189524   2864 R  94.4  10.1   0:09.56 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  355544 136016   2956 R  99.9   7.3   0:08.83 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:23 MSK 2020
+___Info in Thu Dec  3 00:39:42 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1433.7 free,    319.6 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1390.2 avail Mem 
+MiB Mem :   1827.1 total,   1506.7 free,    253.1 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1461.7 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  432104 212756   2864 R  99.9  11.4   0:10.75 mem.bash
+   3877 root      20   0  373760 154496   2956 R  99.9   8.3   0:10.05 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  449528 230180   2864 R  94.4  12.3   0:11.65 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  388016 168488   2956 R  93.8   9.0   0:10.99 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:25 MSK 2020
+___Info in Thu Dec  3 00:39:44 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1393.2 free,    360.1 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1349.7 avail Mem 
+MiB Mem :   1827.1 total,   1475.5 free,    284.4 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1430.3 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  473156 253676   2864 R  99.9  13.6   0:12.86 mem.bash
+   3877 root      20   0  406232 186704   2956 R  99.9  10.0   0:12.21 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  490844 271364   2864 R  99.9  14.5   0:13.77 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  420752 201224   2956 R  94.4  10.8   0:13.17 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:28 MSK 2020
+___Info in Thu Dec  3 00:39:46 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1351.1 free,    402.2 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1306.7 avail Mem 
+MiB Mem :   1827.1 total,   1443.0 free,    316.8 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1397.4 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  514868 295388   2864 R  76.2  15.8   0:15.00 mem.bash
+   3877 root      20   0  439496 219968   2956 R  94.1  11.8   0:14.37 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  532952 313340   2864 R  93.8  16.7   0:15.92 mem.bash
-  25465 root      20   0  274272   3304   2528 S   6.2   0.2   0:02.77 top
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
-      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
-      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
-
-___Info in Sun Nov 29 22:33:30 MSK 2020
-	System mem params
-MiB Mem :   1827.1 total,   1310.4 free,    442.8 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1267.1 avail Mem 
-
-	Info about mem.bash
-  25593 root      20   0  556316 336836   2864 R  94.4  18.0   0:17.13 mem.bash
-
-	Info about first five processes
-  25593 root      20   0  573740 354260   2864 R  99.9  18.9   0:18.02 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  453884 234488   2956 R  99.9  12.5   0:15.29 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:32 MSK 2020
+___Info in Thu Dec  3 00:39:48 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1270.3 free,    483.0 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1226.8 avail Mem 
+MiB Mem :   1827.1 total,   1409.1 free,    350.7 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1364.1 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  597500 378020   2864 R  99.9  20.2   0:19.23 mem.bash
+   3877 root      20   0  473684 254288   2956 R  99.9  13.6   0:16.53 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  614660 395180   2864 R  99.9  21.1   0:20.11 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  487940 268544   2956 R  99.9  14.4   0:17.45 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:34 MSK 2020
+___Info in Thu Dec  3 00:39:50 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1229.6 free,    523.6 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1186.0 avail Mem 
+MiB Mem :   1827.1 total,   1378.0 free,    381.8 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1333.0 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  638552 418940   2864 R  93.8  22.4   0:21.32 mem.bash
+   3877 root      20   0  505760 286232   2956 R  88.9  15.3   0:18.65 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  657032 437420   2864 R  99.9  23.4   0:22.27 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  520016 300488   2956 R  99.9  16.1   0:19.58 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:36 MSK 2020
+___Info in Thu Dec  3 00:39:53 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1188.8 free,    564.5 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1145.6 avail Mem 
+MiB Mem :   1827.1 total,   1347.3 free,    412.6 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1302.5 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  680264 460652   2864 R  93.8  24.6   0:23.45 mem.bash
+   3877 root      20   0  537572 318176   2956 R  99.9  17.0   0:20.75 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  697820 478340   2864 R  99.9  25.6   0:24.35 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  550772 331376   2956 R  94.4  17.7   0:21.66 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:38 MSK 2020
+___Info in Thu Dec  3 00:39:55 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1148.5 free,    604.7 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1104.4 avail Mem 
+MiB Mem :   1827.1 total,   1317.8 free,    442.0 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1272.2 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  721448 501836   2864 R  99.9  26.8   0:25.55 mem.bash
+   3877 root      20   0  567668 348272   2956 R  99.9  18.6   0:22.85 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  739664 520052   2864 R  93.8  27.8   0:26.47 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  582188 362792   2956 R  99.9  19.4   0:23.82 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:41 MSK 2020
+___Info in Thu Dec  3 00:39:57 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1109.2 free,    644.1 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1065.6 avail Mem 
+MiB Mem :   1827.1 total,   1284.6 free,    475.2 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1239.4 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  763160 543548   2864 R  99.9  29.1   0:27.68 mem.bash
+   3877 root      20   0  601064 381536   2956 R  99.9  20.4   0:25.02 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  781112 561500   2864 R  99.9  30.0   0:28.59 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  615452 396056   2956 R  99.9  21.2   0:25.96 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:43 MSK 2020
+___Info in Thu Dec  3 00:39:59 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,   1069.0 free,    684.2 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.   1025.1 avail Mem 
+MiB Mem :   1827.1 total,   1253.6 free,    506.2 used,     67.2 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1208.9 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  804344 584732   2864 R  99.9  31.3   0:29.77 mem.bash
+   3877 root      20   0  632744 413216   2956 R  89.5  22.1   0:27.16 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  822560 603212   2864 R  99.9  32.2   0:30.70 mem.bash
-  25465 root      20   0  274272   3304   2528 S   6.2   0.2   0:02.78 top
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
-      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
-      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
-
-___Info in Sun Nov 29 22:33:45 MSK 2020
-	System mem params
-MiB Mem :   1827.1 total,   1027.2 free,    726.1 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    983.3 avail Mem 
-
-	Info about mem.bash
-  25593 root      20   0  847112 627500   2864 R  99.9  33.5   0:31.93 mem.bash
-
-	Info about first five processes
-  25593 root      20   0  865592 645980   2864 R  94.1  34.5   0:32.87 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  646604 427208   2956 R  94.4  22.8   0:28.10 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:47 MSK 2020
+___Info in Thu Dec  3 00:40:01 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    986.2 free,    767.0 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    942.2 avail Mem 
+MiB Mem :   1827.1 total,   1222.4 free,    537.3 used,     67.3 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1177.7 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  889220 669740   2864 R  93.8  35.8   0:34.07 mem.bash
+   3877 root      20   0  664292 444896   2956 R  99.9  23.8   0:29.30 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  907436 687956   2864 R  99.9  36.8   0:34.99 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  678680 459152   2956 R  99.9  24.5   0:30.25 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:49 MSK 2020
+___Info in Thu Dec  3 00:40:04 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    944.4 free,    808.8 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    900.6 avail Mem 
+MiB Mem :   1827.1 total,   1191.1 free,    568.6 used,     67.3 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1146.8 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  931460 711980   2864 R  99.9  38.1   0:36.21 mem.bash
+   3877 root      20   0  696632 477368   2956 R  99.9  25.5   0:31.45 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  949940 730460   2864 R  99.9  39.0   0:37.14 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  709964 490568   2956 R  89.5  26.2   0:32.34 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:52 MSK 2020
+___Info in Thu Dec  3 00:40:06 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    902.6 free,    850.7 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    858.7 avail Mem 
+MiB Mem :   1827.1 total,   1161.0 free,    598.6 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1115.6 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0  974360 754748   2864 R  99.9  40.3   0:38.38 mem.bash
+   3877 root      20   0  727520 508256   2956 R  93.8  27.2   0:33.54 mem.bash
 
 	Info about first five processes
-  25593 root      20   0  993104 773492   2864 R  99.9  41.3   0:39.32 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  741776 522512   2956 R  80.0  27.9   0:34.50 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:54 MSK 2020
+___Info in Thu Dec  3 00:40:08 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    861.0 free,    892.2 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    817.2 avail Mem 
+MiB Mem :   1827.1 total,   1129.3 free,    630.3 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1084.4 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1016864 797252   2864 R  99.9  42.6   0:40.53 mem.bash
+   3877 root      20   0  759728 540200   2956 R  93.8  28.9   0:35.70 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1034684 815204   2864 R  99.9  43.6   0:41.43 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  773456 553928   2956 R  93.8  29.6   0:36.63 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:56 MSK 2020
+___Info in Thu Dec  3 00:40:10 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    819.6 free,    933.6 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    775.8 avail Mem 
+MiB Mem :   1827.1 total,   1098.2 free,    661.4 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1053.3 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1058972 839492   2864 R  94.4  44.9   0:42.65 mem.bash
+   3877 root      20   0  791672 572144   2956 R  99.9  30.6   0:37.84 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1077188 857708   2864 R  93.8  45.8   0:43.59 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  804872 585344   2956 R  94.1  31.3   0:38.74 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:33:58 MSK 2020
+___Info in Thu Dec  3 00:40:12 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    778.8 free,    974.4 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    735.2 avail Mem 
+MiB Mem :   1827.1 total,   1067.0 free,    692.6 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.   1022.1 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1100948 881468   2864 R  94.1  47.1   0:44.78 mem.bash
+   3877 root      20   0  823220 603824   2956 R  99.9  32.3   0:39.97 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1119032 899684   2864 R  99.9  48.1   0:45.70 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  837344 617816   2956 R  94.7  33.0   0:40.93 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:00 MSK 2020
+___Info in Thu Dec  3 00:40:15 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    737.2 free,   1016.0 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    692.7 avail Mem 
+MiB Mem :   1827.1 total,   1036.1 free,    723.5 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    991.0 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1143320 923972   2864 R  94.1  49.4   0:46.92 mem.bash
+   3877 root      20   0  854636 635240   2956 R  99.9  34.0   0:42.11 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1161668 942188   2864 R  93.8  50.4   0:47.85 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  868760 649232   2956 R  99.9  34.7   0:43.04 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:03 MSK 2020
+___Info in Thu Dec  3 00:40:17 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    696.5 free,   1056.7 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    652.8 avail Mem 
+MiB Mem :   1827.1 total,   1005.3 free,    754.3 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    960.7 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1185428 965948   2864 R  94.4  51.6   0:49.05 mem.bash
+   3877 root      20   0  886316 666920   2956 R  93.8  35.6   0:44.21 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1202984 983372   2864 R  99.9  52.6   0:49.95 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  900044 680648   2956 R  93.8  36.4   0:45.12 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:05 MSK 2020
+___Info in Thu Dec  3 00:40:19 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    656.0 free,   1097.2 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    612.1 avail Mem 
+MiB Mem :   1827.1 total,    974.9 free,    784.6 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    930.1 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1226480 983.5m   2864 R  93.8  53.8   0:51.15 mem.bash
+   3877 root      20   0  917600 698336   2956 R  99.9  37.3   0:46.34 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1244828   1.0g   2864 R  94.4  54.8   0:52.08 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  931328 711800   2956 R  94.4  38.0   0:47.23 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:07 MSK 2020
+___Info in Thu Dec  3 00:40:21 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    614.2 free,   1139.0 used,     73.8 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    570.6 avail Mem 
+MiB Mem :   1827.1 total,    943.4 free,    816.1 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    898.3 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1268984   1.0g   2864 R  99.9  56.1   0:53.29 mem.bash
+   3877 root      20   0  949280 729752   2956 R  99.9  39.0   0:48.46 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1287200   1.0g   2864 R  99.9  57.1   0:54.22 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  963536 744008   2956 R  94.4  39.8   0:49.41 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:09 MSK 2020
+___Info in Thu Dec  3 00:40:23 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    573.2 free,   1180.0 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    529.5 avail Mem 
+MiB Mem :   1827.1 total,    912.3 free,    847.3 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    867.6 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1310960   1.0g   2864 R  94.4  58.3   0:55.42 mem.bash
+   3877 root      20   0  981224 761696   2956 R  99.9  40.7   0:50.60 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1328912   1.1g   2864 R  93.8  59.3   0:56.32 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0  994820 775424   2956 R  93.8  41.4   0:51.51 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:11 MSK 2020
+___Info in Thu Dec  3 00:40:26 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    532.4 free,   1220.8 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    488.5 avail Mem 
+MiB Mem :   1827.1 total,    882.1 free,    877.5 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    837.3 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1352540   1.1g   2864 R  99.9  60.6   0:57.54 mem.bash
+   3877 root      20   0 1012376 792848   2956 R  99.9  42.4   0:52.73 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1371020   1.1g   2864 R  99.9  61.6   0:58.48 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1026104 806576   2956 R  94.4  43.1   0:53.66 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:14 MSK 2020
+___Info in Thu Dec  3 00:40:28 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    491.2 free,   1262.0 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    447.1 avail Mem 
+MiB Mem :   1827.1 total,    851.3 free,    908.3 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    806.2 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1394912   1.1g   2864 R  99.9  62.8   0:59.68 mem.bash
+   3877 root      20   0 1043792 824264   2956 R  94.1  44.1   0:54.86 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1413656   1.1g   2864 R  94.7  63.8   1:00.63 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1057520 837992   2956 R  94.1  44.8   0:55.78 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:16 MSK 2020
+___Info in Thu Dec  3 00:40:30 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    449.2 free,   1304.0 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    405.6 avail Mem 
+MiB Mem :   1827.1 total,    820.0 free,    939.5 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    775.3 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1437944   1.2g   2864 R  94.4  65.1   1:01.85 mem.bash
+   3877 root      20   0 1075604 856208   2956 R  94.4  45.8   0:56.99 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1455632   1.2g   2864 R  99.9  66.1   1:02.75 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1089860 870464   2956 R  94.7  46.5   0:57.94 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:18 MSK 2020
+___Info in Thu Dec  3 00:40:32 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    407.8 free,   1345.4 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    364.1 avail Mem 
+MiB Mem :   1827.1 total,    787.8 free,    971.7 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    742.9 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1479656   1.2g   2864 R  88.9  67.4   1:03.96 mem.bash
+   3877 root      20   0 1108604 889208   2956 R  99.9  47.5   0:59.18 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1498664   1.2g   2864 R  99.9  68.4   1:04.92 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1121936 902672   2956 R  99.9  48.2   1:00.09 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:20 MSK 2020
+___Info in Thu Dec  3 00:40:35 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    366.3 free,   1386.9 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    322.6 avail Mem 
+MiB Mem :   1827.1 total,    756.7 free,   1002.8 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    713.3 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1522424   1.2g   2864 R  94.1  69.6   1:06.11 mem.bash
+   3877 root      20   0 1140416 921152   2956 R  99.9  49.2   1:01.31 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1541168   1.3g   2864 R  94.4  70.7   1:07.07 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1152692 933296   2956 R  99.9  49.9   1:02.21 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:22 MSK 2020
+___Info in Thu Dec  3 00:40:37 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    324.1 free,   1429.0 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    280.8 avail Mem 
+MiB Mem :   1827.1 total,    727.6 free,   1031.9 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    682.1 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1565456   1.3g   2864 R  99.9  71.9   1:08.29 mem.bash
+   3877 root      20   0 1170248 950984   2956 R  89.5  50.8   1:03.41 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1583144   1.3g   2864 R  99.9  72.9   1:09.19 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1185032 965504   2956 R  99.9  51.6   1:04.38 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:25 MSK 2020
+___Info in Thu Dec  3 00:40:39 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    283.3 free,   1469.9 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    239.4 avail Mem 
+MiB Mem :   1827.1 total,    694.6 free,   1064.9 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    649.9 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1607432   1.3g   2864 R  99.9  74.2   1:10.42 mem.bash
+   3877 root      20   0 1203908 984512   2956 R  89.5  52.6   1:05.62 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1625516   1.3g   2864 R  99.9  75.2   1:11.33 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1217768 998240   2956 R  94.1  53.4   1:06.54 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:27 MSK 2020
+___Info in Thu Dec  3 00:40:41 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    241.9 free,   1511.2 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    198.3 avail Mem 
+MiB Mem :   1827.1 total,    663.0 free,   1096.5 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    617.4 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1649540   1.4g   2864 R  94.1  76.4   1:12.54 mem.bash
+   3877 root      20   0 1236116 992.9m   2956 R  99.9  54.3   1:07.77 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1667624   1.4g   2864 R  94.4  77.4   1:13.46 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1251032   1.0g   2956 R  99.9  55.1   1:08.77 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:29 MSK 2020
+___Info in Thu Dec  3 00:40:43 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    201.0 free,   1552.2 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    157.1 avail Mem 
+MiB Mem :   1827.1 total,    631.4 free,   1128.1 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    586.6 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1691384   1.4g   2864 R  93.8  78.7   1:14.66 mem.bash
+   3877 root      20   0 1268588   1.0g   2956 R  99.9  56.1   1:09.96 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1709864   1.4g   2864 R  99.9  79.7   1:15.60 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1282316   1.0g   2956 R  94.7  56.8   1:10.90 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:31 MSK 2020
+___Info in Thu Dec  3 00:40:46 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    159.7 free,   1593.4 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.    115.9 avail Mem 
+MiB Mem :   1827.1 total,    600.5 free,   1159.0 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    555.8 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1733756   1.4g   2864 R  94.4  80.9   1:16.81 mem.bash
+   3877 root      20   0 1300136   1.0g   2956 R  94.1  57.8   1:12.11 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1751576   1.5g   2864 R  93.8  81.9   1:17.71 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1313468   1.0g   2956 R  99.9  58.5   1:13.02 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:33 MSK 2020
+___Info in Thu Dec  3 00:40:48 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,    118.4 free,   1634.7 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.     74.1 avail Mem 
+MiB Mem :   1827.1 total,    569.2 free,   1190.3 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    524.2 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1775864   1.5g   2864 R  99.9  83.2   1:18.94 mem.bash
+   3877 root      20   0 1331948   1.1g   2956 R  99.9  59.5   1:14.21 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1794476   1.5g   2864 R  94.4  84.2   1:19.89 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1345676   1.1g   2956 R  99.9  60.2   1:15.12 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:36 MSK 2020
+___Info in Thu Dec  3 00:40:50 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,     76.5 free,   1676.6 used,     73.9 buff/cache
-MiB Swap:    820.0 total,    730.6 free,     89.4 used.     32.6 avail Mem 
+MiB Mem :   1827.1 total,    538.4 free,   1221.2 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    493.8 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 1818500   1.5g   2864 R  99.9  85.5   1:21.11 mem.bash
+   3877 root      20   0 1363628   1.1g   2956 R  99.9  61.2   1:16.32 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 1837112   1.5g   2864 R  94.4  86.5   1:22.04 mem.bash
-      1 root      20   0  253120   5036   2700 S   0.0   0.3   0:02.63 systemd
+   3877 root      20   0 1377356   1.1g   2956 R  94.1  61.9   1:17.21 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
-___Info in Sun Nov 29 22:34:50 MSK 2020
+___Info in Thu Dec  3 00:40:52 MSK 2020
 	System mem params
-MiB Mem :   1827.1 total,     67.9 free,   1721.1 used,     38.1 buff/cache
-MiB Swap:    820.0 total,     98.0 free,    722.0 used.     18.1 avail Mem 
+MiB Mem :   1827.1 total,    506.4 free,   1253.1 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    461.1 avail Mem 
 
 	Info about mem.bash
-  25593 root      20   0 2018216   1.6g    516 R   6.4  88.3   1:31.38 mem.bash
+   3877 root      20   0 1396364   1.1g   2956 R  93.8  62.9   1:18.42 mem.bash
 
 	Info about first five processes
-  25593 root      20   0 2599016   1.6g    864 R  66.7  87.6   2:01.36 mem.bash
-      1 root      20   0  253120   2088   1788 S   0.0   0.1   0:02.63 systemd
+   3877 root      20   0 1410488   1.1g   2956 R  99.9  63.7   1:19.38 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:40:54 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    474.1 free,   1285.4 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    429.1 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1429364   1.2g   2956 R  99.9  64.7   1:20.60 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1443092   1.2g   2956 R  99.9  65.4   1:21.49 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:40:57 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    443.1 free,   1316.4 used,     67.5 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    397.7 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1461176   1.2g   2956 R  99.9  66.4   1:22.69 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1474904   1.2g   2956 R  93.8  67.1   1:23.60 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:40:59 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    412.3 free,   1347.2 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    367.4 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1492328   1.2g   2956 R  93.8  68.0   1:24.81 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1506452   1.2g   2956 R  93.8  68.8   1:25.75 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:01 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    381.1 free,   1378.3 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    336.1 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1524008   1.2g   2956 R  87.5  69.7   1:26.94 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1538396   1.3g   2956 R  94.4  70.5   1:27.89 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:03 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    349.3 free,   1410.2 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    304.3 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1556480   1.3g   2956 R  93.8  71.5   1:29.09 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1571264   1.3g   2956 R  94.4  72.3   1:30.07 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:06 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    316.8 free,   1442.7 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    271.7 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1589612   1.3g   2956 R  94.4  73.2   1:31.26 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1604000   1.3g   2956 R  99.9  74.0   1:32.19 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:08 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    285.2 free,   1474.3 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    240.8 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1622084   1.3g   2956 R  99.9  75.0   1:33.40 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1635812   1.4g   2956 R  99.9  75.7   1:34.34 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:10 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    254.2 free,   1505.3 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    208.8 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1654028   1.4g   2956 R  94.1  76.7   1:35.56 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1668812   1.4g   2956 R  94.4  77.5   1:36.53 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:12 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    220.8 free,   1538.7 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    175.3 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1687820   1.4g   2956 R  99.9  78.5   1:37.74 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1702604   1.4g   2956 R  93.8  79.3   1:38.69 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:14 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    189.5 free,   1570.0 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    144.6 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1720292   1.4g   2956 R  88.9  80.2   1:39.89 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1733624   1.4g   2956 R  93.8  80.9   1:40.81 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:17 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    158.9 free,   1600.6 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.    114.3 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1751444   1.5g   2956 R  99.9  81.9   1:42.01 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1764908   1.5g   2956 R  99.9  82.6   1:42.92 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:19 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,    127.2 free,   1632.2 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.     82.8 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1783652   1.5g   2956 R  94.4  83.6   1:44.17 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1797248   1.5g   2956 R  88.2  84.3   1:45.09 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:21 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     96.0 free,   1663.5 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.     51.2 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1815464   1.5g   2956 R  99.9  85.3   1:46.32 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1829852   1.5g   2956 R  94.4  86.1   1:47.26 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:23 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     64.2 free,   1695.2 used,     67.6 buff/cache
+MiB Swap:    820.0 total,    733.4 free,     86.6 used.     19.5 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1847672   1.6g   2956 R  93.8  87.0   1:48.44 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 1861664   1.6g   2956 R  94.1  87.8   1:49.36 mem.bash
+      1 root      20   0  179384   2072   1756 S   0.0   0.1   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:33 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     63.0 free,   1720.6 used,     43.5 buff/cache
+MiB Swap:    820.0 total,    534.4 free,    285.6 used.     20.9 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 1968848   1.6g    948 R   5.8  87.9   1:56.50 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 2082104   1.6g    888 R  99.9  87.4   2:04.02 mem.bash
+      1 root      20   0  179384      0      0 S   0.0   0.0   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:42 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     74.6 free,   1707.5 used,     45.0 buff/cache
+MiB Swap:    820.0 total,    481.5 free,    338.4 used.     17.0 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 2110880   1.6g    888 R  94.1  88.1   2:05.92 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 2129096   1.6g    888 R  94.4  87.8   2:07.17 mem.bash
+      1 root      20   0  179384      0      0 S   0.0   0.0   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:45 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     66.8 free,   1714.9 used,     45.4 buff/cache
+MiB Swap:    820.0 total,    444.3 free,    375.7 used.      9.6 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 2146652   1.6g    888 R  94.1  88.1   2:08.36 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 2185724   1.6g    888 R  88.9  87.6   2:10.96 mem.bash
+      1 root      20   0  179384      0      0 S   0.0   0.0   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:49 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     72.1 free,   1713.2 used,     41.8 buff/cache
+MiB Swap:    820.0 total,    389.8 free,    430.2 used.     12.2 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 2204600   1.6g    888 R  94.1  88.6   2:12.22 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 2226380   1.6g    888 R  99.9  87.9   2:13.65 mem.bash
+      1 root      20   0  179384      0      0 S   0.0   0.0   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:52 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     67.1 free,   1715.2 used,     44.7 buff/cache
+MiB Swap:    820.0 total,    353.3 free,    466.7 used.     11.6 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 2248820   1.6g    888 R  60.0  87.8   2:15.11 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 2262548   1.6g    888 R  88.9  87.6   2:16.03 mem.bash
+      1 root      20   0  179384      0      0 S   0.0   0.0   0:01.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:41:54 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     68.2 free,   1717.2 used,     41.6 buff/cache
+MiB Swap:    820.0 total,    258.8 free,    561.2 used.     25.4 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 2280500   1.6g    888 R  93.8  87.8   2:17.22 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 2357720   1.6g    888 R  78.3  86.9   2:22.23 mem.bash
+      1 root      20   0  179384   2604   2304 S   0.0   0.1   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:42:01 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     63.8 free,   1715.6 used,     47.6 buff/cache
+MiB Swap:    820.0 total,    198.6 free,    621.4 used.     28.8 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 2377388   1.6g    888 R  99.9  87.6   2:23.52 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 2396264   1.6g    888 R  93.8  87.2   2:24.83 mem.bash
+      1 root      20   0  179384   2604   2304 S   0.0   0.1   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:42:03 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     83.6 free,   1701.9 used,     41.5 buff/cache
+MiB Swap:    820.0 total,    159.0 free,    660.9 used.     23.8 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 2415272   1.6g    888 R  89.5  87.6   2:26.07 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 2444576   1.6g    888 R  99.9  87.6   2:28.10 mem.bash
+      1 root      20   0  179384   2476   2176 S   0.0   0.1   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:42:07 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     73.4 free,   1709.8 used,     43.9 buff/cache
+MiB Swap:    820.0 total,    131.5 free,    688.4 used.     21.0 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 2464376   1.6g    888 R  99.9  87.6   2:29.43 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 2478500   1.6g    888 R  94.4  87.9   2:30.34 mem.bash
+      1 root      20   0  179384   2256   1956 S   0.0   0.1   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+___Info in Thu Dec  3 00:42:13 MSK 2020
+	System mem params
+MiB Mem :   1827.1 total,     82.8 free,   1705.2 used,     39.1 buff/cache
+MiB Swap:    820.0 total,      7.6 free,    812.4 used.     24.1 avail Mem 
+
+	Info about mem.bash
+   3877 root      20   0 2549912   1.6g    832 R  18.4  87.7   2:35.15 mem.bash
+
+	Info about first five processes
+   3877 root      20   0 2600996   1.6g    832 R  94.1  87.4   2:38.62 mem.bash
+      1 root      20   0  179384   1264    964 S   0.0   0.1   0:01.46 systemd
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
       3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
 _____Last info in dmesg about process_____
-[28890.619769] [25593]     0 25593   658862   418340  4902912   184972             0 mem.bash
-[28890.620809] Out of memory: Killed process 25593 (mem.bash) total-vm:2635448kB, anon-rss:1673360kB, file-rss:0kB, shmem-rss:0kB, UID:0
+[ 2934.461323] Out of memory: Killed process 3877 (mem.bash) total-vm:2642048kB, anon-rss:1671724kB, file-rss:0kB, shmem-rss:0kB, UID:0
+[ 2934.565323] oom_reaper: reaped process 3877 (mem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
 _____Last info in report.log_____
-30000000
+30500000

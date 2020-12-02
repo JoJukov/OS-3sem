@@ -5,7 +5,7 @@ iter=0
 for ((;;))
 do
 	let iter=iter+1
-	for ((m=0;m<10;m++))
+	for ((m=0;m<5;m++))
 	do
 		arr+=("$m")
 	done
