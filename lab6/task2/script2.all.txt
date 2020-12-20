@@ -1,0 +1,11 @@
+echo %computername%
+net share temp=c:\%hostname%\temp
+
+forfiles /p "c:\Windows" /c "cmd /c if @fsize GEQ 2097152 copy /z /y  @path c:\%computername%\temp " 
+
+schtasks /create /tn script2.3_run.bat /tr c:\LAB6\task2\script2.2.bat /sc minute
+
+schtasks | find "script"
+schtasks /delete /tn "script2.3_run.bat"
+
+fc c:\DESKTOP-9Q1S3FT\temp\explorer.exe c:\Windows\explorer.exe

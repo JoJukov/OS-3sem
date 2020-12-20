@@ -1,0 +1,1 @@
+fc /c c:\lab6\task3\all_services.txt c:\lab6\task3\all_services_new.txt > difference.txt

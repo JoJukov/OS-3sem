@@ -1,0 +1,1 @@
+for /f "skip=1" %i in ('dir /b/o-d') do del %i

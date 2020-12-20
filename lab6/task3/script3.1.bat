@@ -1,0 +1,1 @@
+sc query | find /i "servcie_name" > all_services.txt

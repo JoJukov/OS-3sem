@@ -1,0 +1,10 @@
+Comparing files C:\LAB6\TASK3\all_services.txt and C:\LAB6\TASK3\ALL_SERVICES_NEW.TXT
+***** C:\LAB6\TASK3\all_services.txt
+SERVICE_NAME: FontCache
+SERVICE_NAME: InstallService
+SERVICE_NAME: iphlpsvc
+***** C:\LAB6\TASK3\ALL_SERVICES_NEW.TXT
+SERVICE_NAME: FontCache
+SERVICE_NAME: iphlpsvc
+*****
+

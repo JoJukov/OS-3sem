@@ -1,0 +1,1 @@
+schtasks /create /tn script2.3_run.bat /tr c:\LAB6\task2\script2.2.bat /sc minute

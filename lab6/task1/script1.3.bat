@@ -1,0 +1,1 @@
+copy * Os_all_info.txt
